@@ -11,5 +11,5 @@ La interfaz consta de:
 
 -Una lista con los dispositivos bluetooth detectados.
 -Tres dislays para un sensor de proximidad por ultrasonidos.
--Una progress bar para medir el nivel del de gasolina.
+-Una progress bar para medir el nivel de gasolina.
 -Seis displays para indicar el estado de las puertas (abierta/cerrada).
